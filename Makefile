@@ -8,4 +8,6 @@ test_numbers: test_numbers.c numbers.h bits.h
 	
 // changes
 
+hej
+
 // okayokay
